@@ -1,4 +1,4 @@
-![Header](github-header-image.png)
+![Header](banner.jpg)
 <h1 align="center">Hi 👋, I'm Jatin Goel</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
 
