@@ -1,16 +1,45 @@
-### Hi there 👋
+![Header](github-header-image.png)
+<h1 align="center">Hi 👋, I'm Jatin Goel</h1>
+<h3 align="center">A passionate Java Backend Developer</h3>
 
-<!--
-**jatingoel7880/jatingoel7880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatingoel7880&label=Profile%20views&color=0e75b6&style=flat-square" alt="jatingoel7880" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I recently worked on...
+  - BLE Chat Application
+  - Todo Web Application
+  - And working on other projects 
+
+- 👯 I’m looking to collaborate on...
+  - Open source Java projects
+  - Web development projects
+  - Anything interesting and innovative!
+
+- 💬 Ask me about...
+  - Java programming
+  - Spring Boot and its different frameworks
+  - Git and version control
+
+## Skills
+
+| Skill Category       | Technologies and Tools               |
+|----------------------|--------------------------------------|
+| Languages/Scripting  | Core Java, Java 8, HTML, CSS         |
+| Database             | SQL , MySQL                          |
+| Frameworks           | Spring Boot Framework, Hibernate, JSP, Data JPA|
+| Cloud                | AWS, Microservices                   |
+| Container            | Docker                               |
+| API Testing          | Postman, Junit                       |
+| Version Control      | Git                                  |
+
+- 📫 How to reach me **jating.0311@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jatin-goel-3a28881b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jatin-goel-3a28881b9/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jatingoel03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jatingoel03/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/jating_0311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jating_0311" height="30" width="40" /></a>
+</p>
+
+⚡ Fun fact: I love talking about mysteries, and I'm a big fan of watching series and movies in my free time!
