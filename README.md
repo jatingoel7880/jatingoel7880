@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Goel</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="coding" width="50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" style="border-radius: 10px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatingoel7880&label=Profile%20views&color=0e75b6&style=flat-square" alt="jatingoel7880" /> </p>
 
