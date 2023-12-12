@@ -1,12 +1,14 @@
 ![Header](banner.jpg)
 <h1 align="center">Hi 👋, I'm Jatin Goel</h1>
-<h3 align="center">A passionate Java Backend Developer</h3>
+<h3 align="center">A passionate Java Backend/ Front-End Developer</h3>
 
 <img align="right" alt="coding" width="50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" style="border-radius: 10px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatingoel7880&label=Profile%20views&color=0e75b6&style=flat-square" alt="jatingoel7880" /> </p>
 
 - 🌱 I recently worked on...
+  - Microservices App
+  - E-commerce Shopping App
   - BLE Chat Application
   - Todo Web Application
   - And working on other projects 
