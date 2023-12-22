@@ -23,7 +23,7 @@
   - Spring Boot and its different frameworks
   - Git and version control
     
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:-</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">📫 How to reach me-</h3> 
+<h3 align="left">📫 How to reach me:-</h3> 
 
 <div align="left">
   <a href="https://www.instagram.com/jatingoel03/" target="_blank">
