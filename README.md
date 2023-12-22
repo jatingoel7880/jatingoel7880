@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">- 📫 How to reach me-</h3> 
+<h3 align="left">📫 How to reach me-</h3> 
 
 <div align="left">
   <a href="https://www.instagram.com/jatingoel03/" target="_blank">
