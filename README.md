@@ -95,6 +95,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatingoel7880&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/jatingoel7880/jatingoel7880/output/snake.svg" alt="Snake animation" />
 
 
 ⚡ Fun fact: I love talking about mysteries, and I'm a big fan of watching series and movies in my free time!
