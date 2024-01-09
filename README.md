@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatingoel7880&label=Profile%20views&color=0e75b6&style=flat-square" alt="jatingoel7880" /> </p>
 
 - 🌱 I recently worked on...
+  - Portfolio Website - HTML, CSS, JS
   - Microservices App
   - E-commerce Shopping App
   - BLE Chat Application
