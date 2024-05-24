@@ -1,6 +1,6 @@
 ![Header](banner.jpg)
 <h1 align="center">Hi 👋, I'm Jatin Goel</h1>
-<h3 align="center">A passionate Java Backend/ Front-End Developer</h3>
+<h3 align="center">A passionate Front-End Developer</h3>
 
 <img align="right" alt="coding" width="50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" style="border-radius: 10px;">
 
@@ -8,20 +8,18 @@
 
 - 🌱 I recently worked on...
   - Portfolio Website - HTML, CSS, JS
-  - Microservices App
-  - E-commerce Shopping App
-  - BLE Chat Application
-  - Todo Web Application
+  - Netflix GPT App
+  - Food Delivery App
   - And working on other projects 
 
 - 👯 I’m looking to collaborate on...
-  - Open source Java projects
+  - Open source React projects
   - Web development projects
   - Anything interesting and innovative!
 
 - 💬 Ask me about...
-  - Java programming
-  - Spring Boot and its different frameworks
+  - React, JS
+  - Front end Tech
   - Git and version control
     
 <h3 align="left">Languages and Tools:-</h3>
