@@ -1,90 +1,106 @@
 ![Header](banner.jpg)
-<h1 align="center">Hi 👋, I'm Jatin Goel</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
 
-<img align="right" alt="coding" width="50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" style="border-radius: 10px;">
+<h1 align="center">👋 Hello World! I'm Jatin Goel</h1>
+<h3 align="center">🚀 Full Stack Developer | React Enthusiast | UI/UX Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatingoel7880&label=Profile%20views&color=0e75b6&style=flat-square" alt="jatingoel7880" /> </p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-- 🌱 I recently worked on...
-  - Portfolio Website - HTML, CSS, JS, React JS, react Native
-  - Netflix GPT App
-  - Food Delivery App
-  - And working on other projects 
+## 🔥 About Me
 
-- 👯 I’m looking to collaborate on...
-  - Open source React projects
-  - Web development projects
-  - Anything interesting and innovative!
+- 💻 Turning coffee into code since 2020
+- 🎨 Passionate about creating beautiful, responsive interfaces
+- 📚 Constantly learning and exploring new technologies
+- 🎬 Movie buff & mystery enthusiast in my free time
 
-- 💬 Ask me about...
-  - React, React Native
-  - Front end Tech
-  - Git and version control
-    
-<h3 align="left">Languages and Tools:-</h3>
+## 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-</div>
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-###
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 
-<h3 align="left">📫 How to reach me:-</h3> 
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 
-<div align="left">
-  <a href="https://www.instagram.com/jatingoel03/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
-  <a href="https://www.discord.com/jating03" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:jating.0311@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/jatin-goel-3a28881b9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/jating_0311" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
-  </a>
-</div>
+### APIs & Services
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=flat)
+![VICI Dial](https://img.shields.io/badge/-VICI_Dial-0056A2?logo=voip&logoColor=white&style=flat)
+![REST API](https://img.shields.io/badge/-REST_API-FF6C37?logo=api&logoColor=white&style=flat)
 
-<p align="left">
-</p>
+## 🌟 Featured Projects
+
+### 1. Digital Company CRM
+📞 **Call Center Solution with Real-time Campaign Management**  
+🔧 **Tech:** React.js, Node.js, MongoDB, VICI Dial API  
+✅ **Key Achievements:**
+- Developed full-stack CRM with OTP authentication and role-based access control
+- Implemented dynamic subscription billing scaled by team size
+- Streamlined data imports via bulk CSV/Excel processing (75% reduction in data errors)
+- Embedded outbound calling (VICI Dial API) eliminating third-party tools
+- Automated agent status tracking and call routing (90% reduction in setup time)
+
+### 2. Real-time Chat App
+💬 **Cross-platform Messaging Solution**  
+🔧 **Tech:** React Native, Node.js, Firebase, Socket.IO, MongoDB  
+✅ **Key Achievements:**
+- Built performant cross-platform application with React Native
+- Integrated Firebase Auth with Google Sign-In (40% reduction in login failures)
+- Optimized reusable components boosting performance
+- Implemented push notifications via FCM for increased engagement
+- Real-time sync with Node.js/Express backend
+
+### 3. Netflix GPT App
+🎥 **AI-powered Streaming Platform**  
+🔧 **Tech:** React, Redux, Tailwind CSS, Gemini API  
+✅ **Key Achievements:**
+- Personalized content recommendations engine
+- Modern UI with responsive design
+- Seamless API integration
+
+### 4. Food Delivery App
+🍔 **Restaurant Ordering System**  
+🔧 **Tech:** React, Node.js, MongoDB  
+✅ **Key Achievements:**
+- Real-time order tracking
+- Payment gateway integration
+- Admin dashboard for restaurant management
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatingoel7880&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jatingoel7880&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatingoel7880&theme=radical" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatingoel7880&show_icons=true&locale=en&layout=compact&theme=radical" alt="jatingoel7880" />
+</div>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jatin-goel-3a28881b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jatingoel03/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:jating.0311@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/jating_0311" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/jatingoel7880/jatingoel7880/output/snake.svg" alt="Snake animation" />
 
-
-⚡ Fun fact: I love talking about mysteries, and I'm a big fan of watching series and movies in my free time!
-
+## 💡 Fun Fact
+> "I once debugged a problem for 6 hours only to find I was missing a semicolon. The best lessons often come from the toughest bugs!" 🐛
