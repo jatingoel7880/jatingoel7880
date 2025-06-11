@@ -59,18 +59,12 @@
 ### 3. Netflix GPT App
 🎥 **AI-powered Streaming Platform**  
 🔧 **Tech:** React, Redux, Tailwind CSS, Gemini API  
+🔗 GitHub Repository
 ✅ **Key Achievements:**
-- Personalized content recommendations engine
-- Modern UI with responsive design
-- Seamless API integration
+- AI-Powered Recommendations – Gemini API-driven suggestions for hyper-personalized content.
+- Cinematic UI/UX – Responsive, modern design with Tailwind CSS + intuitive navigation.
+- Seamless Integrations – Flawless API sync between frontend, TMDB, and Gemini AI.
 
-### 4. Food Delivery App
-🍔 **Restaurant Ordering System**  
-🔧 **Tech:** React, Node.js, MongoDB  
-✅ **Key Achievements:**
-- Real-time order tracking
-- Payment gateway integration
-- Admin dashboard for restaurant management
 
 ## 📈 GitHub Stats
 
