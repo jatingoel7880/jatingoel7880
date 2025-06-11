@@ -49,6 +49,9 @@
 ### 2. Real-time Chat App
 💬 **Cross-platform Messaging Solution**  
 🔧 **Tech:** React Native, Node.js, Firebase, Socket.IO, MongoDB  
+🔗 [GitHub Repository](https://github.com/jatingoel7880/ChatApplicationFirebase)
+🚀 [Live Project](https://chat-native-backend.onrender.com) Backend Service
+
 ✅ **Key Achievements:**
 - Built performant cross-platform application with React Native
 - Integrated Firebase Auth with Google Sign-In (40% reduction in login failures)
@@ -59,7 +62,9 @@
 ### 3. Netflix GPT App
 🎥 **AI-powered Streaming Platform**  
 🔧 **Tech:** React, Redux, Tailwind CSS, Gemini API  
-🔗 GitHub Repository
+🔗 [GitHub Repository](https://github.com/jatingoel7880/Netflix_App)
+
+
 ✅ **Key Achievements:**
 - AI-Powered Recommendations – Gemini API-driven suggestions for hyper-personalized content.
 - Cinematic UI/UX – Responsive, modern design with Tailwind CSS + intuitive navigation.
